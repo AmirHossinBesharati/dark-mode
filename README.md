@@ -1,6 +1,5 @@
 # dark-mode
 
-![preview img](/mode1.png)
+![mode1 img](/mode1.png)
 
-
-![preview img](/mode2.png)
+![mode2 img](/mode2.png)
